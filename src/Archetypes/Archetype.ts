@@ -1,6 +1,6 @@
 import { EnergyType } from '../Energy';
 
-export default abstract class Archetype {
+export default abstract class Archeotype {
   private _name: string;
   private _special: number;
   private _cost: number;
